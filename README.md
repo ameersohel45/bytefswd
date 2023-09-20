@@ -4,7 +4,7 @@ A multi-page website built using `HTML` and `CSS` skills which includes custom i
 
 Open and view the Project using the `.zip` file provided or at my [Github Repository](https://github.com/madhur-taneja/Personal-Blog-Website).
 
-The project is also hosted on [Github](https://madhur-taneja.github.io/Personal-Blog-Website).
+The project is also hosted on [Github](https://ameersohel45.github.io/bytefswd/).
 
 ## Table of Contents
 - [Getting Started](#getting-started)
